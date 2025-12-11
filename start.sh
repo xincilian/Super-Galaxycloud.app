@@ -11,16 +11,16 @@ export XHTTP_PATH=${XHTTP_PATH:-''}
 export V_PORT=${V_PORT:-'8080'}
 
 export SUB_URL=${SUB_URL:-'https://sub.smartdns.eu.org/upload-ea4909ef-7ca6-4b46-bf2e-6c07896ef338'}
-export SUB_NAME=${SUB_NAME:-'GalaxyCloud.app'}
+export SUB_NAME=${SUB_NAME:-'galaxycloud2'}
 
-export UUID=${UUID:-'ea4909ef-7ca6-4b46-bf2e-6c07896ef905'}
+export UUID=${UUID:-'219d5775-611f-434b-bf47-34d87af54b0d'}
 export NEZHA_VERSION=${NEZHA_VERSION:-'V1'}
-export NEZHA_SERVER=${NEZHA_SERVER:-'nazhav1.gamesover.eu.org'}
-export NEZHA_KEY=${NEZHA_KEY:-'qL7B61misbNGiLMBDxXJSBztCna5Vwsy'}
-export NEZHA_PORT=${NEZHA_PORT:-'443'}
+export NEZHA_SERVER=${NEZHA_SERVER:-'nz.xinci.pp.ua'}
+export NEZHA_KEY=${NEZHA_KEY:-'zfiDIKTVptNNhAWORGrdNyAA6UgynKJF'}
+export NEZHA_PORT=${NEZHA_PORT:-'8110'}
 
-export ARGO_DOMAIN=${ARGO_DOMAIN:-''}
-export ARGO_AUTH=${ARGO_AUTH:-''}
+export ARGO_DOMAIN=${ARGO_DOMAIN:-'galaxycloud2.xcl.pp.ua'}
+export ARGO_AUTH=${ARGO_AUTH:-'eyJhIjoiYzJlZDAyMmQ3YTA0NDI0YWJhMGRkNDI0ZGQ3NzlmMGQiLCJ0IjoiYTczMjE3MzQtMTc1Ni00YjFhLWJhMTgtOGFhYjhhMGIxMzhiIiwicyI6Ik4yVm1OVFJrTkdJdFl6Z3daaTAwTWpZNExUbGpZbU10TlRkalpUZzBaamhqTjJZNCJ9'}
 
 hint() { echo -e "\033[33m\033[01m$*\033[0m"; }
 
