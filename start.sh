@@ -8,7 +8,7 @@ export openkeepalive=${openkeepalive:-'1'}
 
 export VLESS_WSPATH=${VLESS_WSPATH:-'startvl'}
 export XHTTP_PATH=${XHTTP_PATH:-''}
-export V_PORT=${V_PORT:-'8080'}
+export V_PORT=${V_PORT:-'8001'}
 
 export SUB_URL=${SUB_URL:-'https://sub.smartdns.eu.org/upload-ea4909ef-7ca6-4b46-bf2e-6c07896ef338'}
 export SUB_NAME=${SUB_NAME:-'galaxycloud2'}
