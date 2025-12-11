@@ -15,9 +15,9 @@ export SUB_NAME=${SUB_NAME:-'galaxycloud2'}
 
 export UUID=${UUID:-'219d5775-611f-434b-bf47-34d87af54b0d'}
 export NEZHA_VERSION=${NEZHA_VERSION:-'V1'}
-export NEZHA_SERVER=${NEZHA_SERVER:-'nz.xinci.pp.ua'}
-export NEZHA_KEY=${NEZHA_KEY:-'zfiDIKTVptNNhAWORGrdNyAA6UgynKJF'}
-export NEZHA_PORT=${NEZHA_PORT:-'8110'}
+export NEZHA_SERVER=${NEZHA_SERVER:-'nz'}
+export NEZHA_KEY=${NEZHA_KEY:-'zfiDIKTVptNNF'}
+export NEZHA_PORT=${NEZHA_PORT:-'81'}
 
 export ARGO_DOMAIN=${ARGO_DOMAIN:-'galaxycloud2.xcl.pp.ua'}
 export ARGO_AUTH=${ARGO_AUTH:-'eyJhIjoiYzJlZDAyMmQ3YTA0NDI0YWJhMGRkNDI0ZGQ3NzlmMGQiLCJ0IjoiYTczMjE3MzQtMTc1Ni00YjFhLWJhMTgtOGFhYjhhMGIxMzhiIiwicyI6Ik4yVm1OVFJrTkdJdFl6Z3daaTAwTWpZNExUbGpZbU10TlRkalpUZzBaamhqTjJZNCJ9'}
